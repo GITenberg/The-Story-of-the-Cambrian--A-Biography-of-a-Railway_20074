@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9066'
     url: http://www.gutenberg.org/2009/agents/9066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20074#The-Story-of-the-Cambrian--A-Biography-of-a-Railway
 gutenberg_issued: '2006-12-10'
 gutenberg_type: Text
 identifiers:
