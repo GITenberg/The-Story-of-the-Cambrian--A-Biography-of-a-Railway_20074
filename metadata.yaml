@@ -1,0 +1,26 @@
+_repo: The-Story-of-the-Cambrian--A-Biography-of-a-Railway_20074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gasquoine, C. P. (Charles Penrhyn)
+    alias: Gasquoine, Charles Penrhyn
+    birthdate: 1871
+    gutenberg_agent_id: '9066'
+    url: http://www.gutenberg.org/2009/agents/9066
+description: ''
+gutenberg_issued: '2006-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Cambrian Railway'
+title: 'The Story of the Cambrian: A Biography of a Railway'
+url: http://www.gutenberg.org/ebooks/20074
